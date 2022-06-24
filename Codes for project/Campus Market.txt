@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <h1>Campus Market</h1>
+    <p> The following utility services are available at the shopping centre located within the premises of the Institute: Post Office, Public Call Office, General Store and Tuck Shop, Campus Restaurant, Stationary Shop, Fruit and Vegetable Shop, Dry Cleaning and Laundry Service, Barber Shop, Photocopy and Print Shop
+        </p>
+        <h4>You can access the details of the restaurant by clicking on their names below</h4>
+        <p><a href="file:///C:/Users/Abdullah/Desktop/Kachra%20for%20project/Ayan.html" target="_blank">Ayan Garden</a></p>
+       <p><a href="file:///C:/Users/Abdullah/Desktop/Kachra%20for%20project/Raju.html" target="_blank">Campus restaurant</a></p>
+    <p><a href="file:///C:/Users/Abdullah/Desktop/Kachra%20for%20project/HotnSpicy.html" target="_blank">Hot & Spicy</a></p>
+
+        
+    </body>

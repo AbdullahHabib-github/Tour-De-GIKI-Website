@@ -1,0 +1,63 @@
+<html>
+<head>
+    <style>
+        body{
+   font-size:20px;
+            color: rgb(255, 255, 255);
+            background-size: cover;
+        }
+         .box{ width: 1000px;
+       float:right;
+       border:1px solid none;}
+       .box ul li{
+           width: 120px;
+           float:center;
+           margin: 10px auto;
+           text-align: center;
+       }
+ 
+
+   .wd{
+           width: 300px;
+           height: 539px;
+           background-color: black;
+           opacity: 10;
+           padding: 70px;
+       }
+       .wd h1{
+           text-align: center;
+           text-transform: uppercase;
+           font-weight: 3000px;
+       }
+       .wd h4{
+           text-align: justify;
+           color:darkgray;
+           font-weight: 1000px;
+       }
+       
+      
+     
+   </style>
+</head>
+<body>
+
+   <div class="box">
+
+    <img src="Auditoriam.jpg">
+
+    <h2><a href="file:///C:/Users/Abdullah/Desktop/Kachra%20for%20project/names%20of%20faculty.html" target="_blank">Faculties</a></h2><br>
+    <h2><a href="file:///C:/Users/Abdullah/Desktop/Kachra%20for%20project/Campus%20Market.html" target="_blank">Campus Market</a></h2><br>
+    <h2><a href="file:///C:/Users/Abdullah/Desktop/Kachra%20for%20project/Imp%20buildings.html" target="_blank">Other most commonly visited areas</a></h2><br>
+
+
+</div>
+   </div>
+   <div class="wd">
+<h1> Welcome to Ghulam Ishaq Khan</h1>
+<h4> <i>The Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIK) is one of the most prestigious engineering institutes of Pakistan. GIK is known the world over for setting a standard of excellence in the field of engineering. </i></h4>
+<h2> To visit official website</h2>
+<a href="https://giki.edu.pk/#">gik website</a>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <h1>ADMIN BLOCK </h1>
+    <img src="ADMIN.jpg" alt="Admin block" width="1500" height="750">
+    <p>The Administration block of the Institute includes the offices of the Rector, Pro-Rector (Academic), Dean (Student Affairs), Controller of Examinations, Admission , Administration, Finance and other allied offices. 
+        </p>
+        <h3>To get to the location of Admin Block Click on the map below: </h3>
+        <a href="https://www.google.com/maps/place/Administration+Block,+Topi,+Swabi,+Khyber+Pakhtunkhwa,+Pakistan/@34.0682036,72.643087,178m/data=!3m1!1e3!4m5!3m4!1s0x38def9396bc5d5fb:0x57b73c88e30d4d15!8m2!3d34.068242!4d72.6436434"target="_blank">
+            <img alt="Qries" src="ADMIN map.PNG"
+            width="460" height="345">
+         </a><br>
+    </body>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Faculties</h1>
+<img src="Capture.PNG" alt="engiineering sciences" width="460" height="345">
+<h2><a href="file:///C:/Users/Abdullah/Desktop/Kachra%20for%20project/ES%20.html" target="_blank">Faculty of Engineering Sciences</h2><br>
+
+<img src="ME.jpg" alt="mechanical" width="460" height="345">
+<h2><a href="file:///C:/Users/Abdullah/Desktop/Kachra%20for%20project/Mechanical%20details.html" target="_blank">Faculty of Mechanical Engineering</a></h2><br>
+
+<img src="electronic and computre.jpg" alt="FCSE" width="460" height="345">
+<h2><a href="file:///C:/Users/Abdullah/Desktop/Kachra%20for%20project/Electrical.html" target="_blank">Faculty of Electrical Engineering and Computer Sciences</a></h2><br>
+
+</body>
+</html>

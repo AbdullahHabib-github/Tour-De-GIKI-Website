@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Engineering Sciences</h1>
+        <img src="Capture.PNG" alt="engiineering sciences" width="1500" height="500">
+    <h2>The details of Engineering Sciences </h2>
+    <p>The future belongs to those who can innovate and possess the knowledge and tools to operate across disciplines. At the Faculty of Engineering Sciences we offer a high-quality inter-disciplinary PEC accredited engineering program that puts the combined power of Mathematics, Physics, Computing, and Engineering in your hands, creating unique opportunities for innovative solutions to modern engineering problems. 
+        </p>
+        <h3>The current Dean of FES is</h3>
+        <h4><a href="https://giki.edu.pk/personnel/dr-naveed-r-butt/">Dr.Naveed R.Butt</a> </h4>
+        <p>
+            <ul>
+                <li>naveed.butt@giki.edu.pk</li>
+                <li>0938 281026 (Ext. 2535)</li>
+                <li>Faculty Lobby</li>
+              </ul>
+        </p>
+        <h4>The internal map of FES is Given Below:  </h4>
+        <img src="FES internal.jpeg" alt="FES internal map" width="460" height="350">
+        <h3>To get to the location of Building of Engineering Sciences Click on the map below: </h3>
+        <a href="https://www.google.com/maps/place/3J9R%2BRW7+Faculty+of+Engineering+Sciences,+Topi,+Swabi,+Khyber+Pakhtunkhwa,+Pakistan/@34.0696924,72.6418991,176m/data=!3m1!1e3!4m5!3m4!1s0x38def93ed2dad897:0x9d911257cb2fb9ea!8m2!3d34.0695858!4d72.6420036"target="_blank">
+            <img alt="Qries" src="ES Map.PNG"
+            width="460" height="345">
+         </a><br>
+    </body>
+    

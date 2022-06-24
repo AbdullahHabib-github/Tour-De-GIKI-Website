@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <h1>Most Important Buildings of GIKI</h1>
+    <p> The following buildings are the two of the most important and most commonly visited buildings in GIK.
+        </p>
+        <h4>You can access the details of these buildings by clicking on their names below</h4>
+        <p><a href="file:///C:/Users/Abdullah/Desktop/Kachra%20for%20project/Admin.html" target="_blank">Admin Block</a></p>
+       <p><a href="file:///C:/Users/Abdullah/Desktop/Kachra%20for%20project/MC.html" target="_blank">Medical Center</a></p>
+    
+
+        
+    </body>

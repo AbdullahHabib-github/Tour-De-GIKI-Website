@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <h1>Hot & Spicy</h1>
+    <img src="Hot n Spicy ov.jpeg" alt"hot n spicy logo" width="747" height="500">
+    <img src="Hot n Spicy  menu board.jpeg" alt"menu board" width="747" height="500">
+    <h3> The menu of the HotnSpicy restaurant is given below:     </h3>
+    <img src="HotnSpicy menu.jpeg" alt"hot n spicy menu" width="495" height="350">
+    <img src="Hot n Spicy menu 1.jpeg" alt"Hot n Spicy menu 1" width="495" height="350">
+    <img src="Hot n Spicy menu 2.jpeg" alt"Hot Menu 2" width="495" height="350">
+
+    <h3> To get the direction to Hot & Spicy
+         click on the map given below:     </h3>
+    <a href="https://www.google.com/maps/place/Hot+And+Spicy/@34.0708299,72.6466681,176m/data=!3m1!1e3!4m5!3m4!1s0x38def93c7c7481b7:0x35974de72869036d!8m2!3d34.0707001!4d72.6472931"target="_blank">
+        <img alt="Qries" src="HotnSpicy Map.PNG"
+        width="460" height="345">
+     </a><br>

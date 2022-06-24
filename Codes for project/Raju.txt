@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <h1>Campus Restaurant AKA Raju Hotel </h1>
+    <img src="Raju 1.jpeg" alt"Raju logo" width="1500" height="750">
+    <img src="Raju 2.jpeg" alt"Ayan logo" width="747" height="400">
+    <img src="Raju 3.jpeg" alt"Ayan lawn" width="747" height="400">
+    <h3> The menu of Campus Restaurant is given below:     </h3>
+    <img src="hot menu.JPG" alt"Hot Menu 1" width="460" height="345">
+    <img src="hot menu 2.JPG" alt"Hot Menu 2" width="460" height="345">
+  
+    <h3> To get the direction to the Campus Restaurant click on the map given below:     </h3>
+    <a href="https://www.google.com/maps/place/Raju+Hotel/@34.0704085,72.6469966,176m/data=!3m1!1e3!4m5!3m4!1s0x0:0x5403507e1d881bb7!8m2!3d34.0704926!4d72.6473206"target="_blank">
+        <img alt="Qries" src="Raju map.PNG"
+        width="460" height="345">
+     </a><br>
